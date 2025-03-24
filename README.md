@@ -1,2 +1,2 @@
 # us-university-insights
-An educational data pipeline project. It extracts college related data, transforms it with dbt, and loads it into a snowflake database. It contains school related data, admission details, cost related info and performance metrics.
+A project focused on processing and transforming educational data, with a specific emphasis on US university information. This repository includes data processing scripts and data models designed to prepare data for analysis, covering areas such as school performance, admissions, and cost details.
